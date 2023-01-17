@@ -1,6 +1,4 @@
 
-![Quote](https://github-readme-quotes.herokuapp.com/Hi?animation=grow_out_in)
-
 <h1 align="center">Hi, I'm Hisyam</h1>
 <h3 align="center">A newbie self-taught Python programmer</h3>
 
