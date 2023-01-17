@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Hisyam</h1>
 <h3 align="center">A newbie self-taught Python programmer</h3>
 
+- I just recently decided to put serious work on learning to code, particularly for the purpose of Data Science/Analytics/Engineering. Wish me luck!
 - 🌱 I’m currently learning **Data Analysis and Data Engineering using Python**
 
 <p align="left">
