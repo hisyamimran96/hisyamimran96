@@ -1,5 +1,5 @@
 
-![MasterHead align="center"](https://i.pinimg.com/originals/50/e8/1b/50e81b57409bbb13fc0749c3b2465fa5.gif)
+![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 <h1 align="center">Hi, I'm Hisyam</h1>
 <h3 align="center">A newbie self-taught Python programmer</h3>
