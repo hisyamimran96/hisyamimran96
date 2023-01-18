@@ -13,8 +13,10 @@
 
 <p align="center">
   <img src = "https://leetcard.jacoblin.cool/hisyam_imran?theme=dark&font=PT%20Mono&ext=heatmap&align=center">
-  (https://leetcode.com/hisyam_imran)
 </p>
+
+<h3 align="center">https://leetcode.com/hisyam_imran</h3>
+
 <p align="center">
   <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVweGMzYy0yYzc0ZGM3NS01NTJmLTRiNzQtOWQ0OS1hMDFlYzRjOGVhOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ACqc7kQ3zva5d9HmQ6rAM2TWKQ_6KA_YgK4pzBCzpbo">
 </p>
