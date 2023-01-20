@@ -3,7 +3,9 @@
 <h3 align="center">A self-taught Python programmer</h3>
 
 - I just recently decided to put serious work on learning to code, particularly for the purpose of Data Science/Analytics/Engineering. Wish me luck!
-- 🌱 I’m currently learning **Data Analysis, Data Science and Data Engineering using Python**
+- 🌱 I’m currently learning :
+  1) **Data Analysis, Data Science and Data Engineering using Python**
+  2) **Data Structures and Algorithms**
 
 <p align="left">
 </p>
