@@ -5,8 +5,8 @@
 - I just recently decided to put serious work on learning to code, particularly for the purpose of Data Science/Analytics/Engineering. Wish me luck!
 - 🌱 I’m currently learning :
   1) **Data Analysis, Data Science and Data Engineering using Python**
-  2) **Data Structures and Algorithms
-  3) **Practical Statistics for Data Scientists
+  2) **Data Structures and Algorithms**
+  3) **Practical Statistics for Data Scientists**
 <p align="left">
 </p>
 
